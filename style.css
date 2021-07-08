@@ -26,3 +26,20 @@ body{
 li{
   margin-bottom: 20px;
 }
+
+#teacher{
+  text-align: center;
+  height: auto;
+}
+
+#teacher-text{
+  font-size: 50px;
+  margin: auto;
+  color: white;
+}
+
+#teacher-image{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
