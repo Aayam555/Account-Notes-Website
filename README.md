@@ -1,4 +1,4 @@
 # Account-Notes-Website
 
 # Website Link:
-https://accountnotes.netlify.app
+<a href="https://accountnotes.netlify.app" target=_blank>https://accountnotes.netlify.app</a>
