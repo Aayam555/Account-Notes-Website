@@ -9,13 +9,12 @@ body{
   font-family: "Roboto", sans-serif;
 }
 
-.links{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  list-style: none;
+.chapter-links{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
 }
+
 
 .link{
   text-decoration: none;
